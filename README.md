@@ -30,4 +30,4 @@ YouTube - видеохостинг, предоставляющий своим п
 
 ## Источники
 1. [Статистика использования YouTube по странам](https://www.globalmediainsight.com/blog/youtube-users-statistics/#YouTube_Users_by_Country)
-2. [Статистика использования YouTube в России](https://www.statista.com/forecasts/1146977/youtube-users-in-russia)# technopark_highload_3sem
+2. [Статистика использования YouTube в России](https://www.statista.com/forecasts/1146977/youtube-users-in-russia)
